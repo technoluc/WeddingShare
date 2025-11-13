@@ -308,7 +308,7 @@
     <value>Kon aangepaste hulpbron niet uploaden</value>
   </data>
   <data name="Danger_Zone" xml:space="preserve">
-    <value>Gevaarszone</value>
+    <value>Gevarenzone</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Datum</value>
@@ -344,7 +344,7 @@
     <value>E-mailadres</value>
   </data>
   <data name="Export" xml:space="preserve">
-    <value>Uitvoer</value>
+    <value>Exporteren</value>
   </data>
   <data name="Failed_Add_Gallery" xml:space="preserve">
     <value>Aanmaken van galerij mislukt</value>
@@ -689,7 +689,7 @@
     <value>Weigeren</value>
   </data>
   <data name="Release_Version" xml:space="preserve">
-    <value>Versie vrijgeven</value>
+    <value>Release versie</value>
   </data>
   <data name="Rename" xml:space="preserve">
     <value>Hernoemen</value>
@@ -1277,10 +1277,10 @@
     <value>Ingeschakeld</value>
   </data>
   <data name="Share_Code" xml:space="preserve">
-    <value>Deel code</value>
+    <value>QR Deelcode</value>
   </data>
   <data name="Single" xml:space="preserve">
-    <value>Alleenstaand</value>
+    <value>Enkel</value>
   </data>
   <data name="Slideshow" xml:space="preserve">
     <value>Diavoorstelling</value>
